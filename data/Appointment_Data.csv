@@ -1,0 +1,5 @@
+﻿FirstName,LastName,ScheduleTime,FirstChoiceApptTime,SecondChoiceApptTime,ThirdChoiceApptTime,ActualApptTime
+Nathan,Zheng,5/25/19 12:00,6/3/19 14:00,6/4/19 16:00,6/6/19 9:00,6/4/19 12:00
+Jane,Doe,5/26/19 14:00,6/1/19 15:00,6/2/19 16:00,6/5/19 10:00,6/2/19 16:00
+Jack,Daniels,5/26/19 10:00,6/2/19 10:00,6/3/19 12:00,6/6/19 14:00,6/6/19 14:00
+John,Smith,5/30/19 15:00,6/6/19 14:00,6/4/19 9:00,6/8/19 16:00,6/9/19 10:00
